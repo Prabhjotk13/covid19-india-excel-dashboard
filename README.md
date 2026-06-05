@@ -58,11 +58,11 @@ An interactive Excel dashboard analyzing COVID-19 data across all Indian states 
 
 ## 📂 Dataset
 
-- Source: [COVID-19 India Dataset – Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india) *(update this link if your source is different)*
+- Source: [COVID-19 India Dataset – Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)
 - Scope: All 36 Indian States and Union Territories
 
 ---
 
 ## 👤 About Me
 
-I'm a fresher data analyst passionate about turning raw data into actionable insights. This is one of the projects in my portfolio — feel free to connect with me on [LinkedIn](https://linkedin.com) *(add your LinkedIn URL)*.
+I'm a fresher data analyst passionate about turning raw data into actionable insights. This is one of the projects in my portfolio — feel free to connect with me on [LinkedIn](www.linkedin.com/in/prabhjot-kaur-d12 ).
