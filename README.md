@@ -65,4 +65,4 @@ An interactive Excel dashboard analyzing COVID-19 data across all Indian states 
 
 ## 👤 About Me
 
-I'm a fresher data analyst passionate about turning raw data into actionable insights. This is one of the projects in my portfolio — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prabhjot-kaur-d12_) .
+I'm a fresher data analyst passionate about turning raw data into actionable insights. This is one of the projects in my portfolio — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prabhjot-kaur-d12/) .
