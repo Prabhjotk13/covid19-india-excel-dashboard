@@ -6,6 +6,7 @@ An interactive Excel dashboard analyzing COVID-19 data across all Indian states 
 
 ## 📊 Dashboard Preview
 
+<img width="1302" height="595" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/79f4b0ff-c582-4b65-826f-41cd1c6c0f11" />
 
 
 ---
